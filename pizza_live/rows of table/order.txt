@@ -1,0 +1,9 @@
+1	1	CHEESE PIZZA	8	79	2014-11-02	SIMPLE TREAT	dine                                              
+1	1	JAIN PIZZA	12	199	2014-11-02	SIMPLE TREAT	takeaway                                          
+2	2	CHEESE PIZZA	12	79	2014-11-02	SIMPLE TREAT	delivery                                          
+2	2	VEGGIE BURGER	NULL	37	2014-11-02	BURGER TREAT	dine                                              
+1	3	CORN PIZZA	8	99	2014-11-02	VEGGIE PIZZA 	delivery                                          
+1	1	JAIN PIZZA	12	199	2014-11-02	SIMPLE TREAT	takeaway                                          
+2	2	VEGGIE BURGER	NULL	37	2014-11-02	BURGER TREAT	dine                                              
+2	2	VEGGIE BURGER	NULL	37	2014-10-02	BURGER TREAT	dine                                              
+NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL

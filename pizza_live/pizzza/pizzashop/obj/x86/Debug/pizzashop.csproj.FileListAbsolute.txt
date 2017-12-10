@@ -1,0 +1,152 @@
+D:\visual progs\c#\pizzashop\pizzashop\bin\Debug\pizzashop.exe
+D:\visual progs\c#\pizzashop\pizzashop\bin\Debug\pizzashop.pdb
+D:\visual progs\c#\pizzashop\pizzashop\obj\x86\Debug\pizzashop.Form1.resources
+D:\visual progs\c#\pizzashop\pizzashop\obj\x86\Debug\pizzashop.Form2.resources
+D:\visual progs\c#\pizzashop\pizzashop\obj\x86\Debug\pizzashop.Properties.Resources.resources
+D:\visual progs\c#\pizzashop\pizzashop\obj\x86\Debug\pizzashop.csproj.GenerateResource.Cache
+D:\visual progs\c#\pizzashop\pizzashop\obj\x86\Debug\pizzashop.exe
+D:\visual progs\c#\pizzashop\pizzashop\obj\x86\Debug\pizzashop.pdb
+D:\visual progs\c#\pizzashop\pizzashop\obj\x86\Debug\pizzashop.csprojResolveAssemblyReference.cache
+D:\visual progs\c#\pizzashop\pizzashop\obj\x86\Debug\pizzashop.login.resources
+F:\pizzashop\pizzashop\obj\x86\Debug\pizzashop.exe
+F:\pizzashop\pizzashop\obj\x86\Debug\pizzashop.pdb
+U:\PIZZATREAT\pizzashop\pizzashop\obj\x86\Debug\pizzashop.exe
+U:\PIZZATREAT\pizzashop\pizzashop\obj\x86\Debug\pizzashop.pdb
+U:\PIZZATREAT\pizzashop - Copy\pizzashop\obj\x86\Debug\pizzashop.exe
+U:\PIZZATREAT\pizzashop - Copy\pizzashop\obj\x86\Debug\pizzashop.pdb
+U:\PIZZATREAT\pizzashop - Copy\pizzashop\bin\Debug\pizzashop.exe
+U:\PIZZATREAT\pizzashop - Copy\pizzashop\bin\Debug\pizzashop.pdb
+U:\PIZZATREAT\pizzashop - Copy\pizzashop\obj\x86\Debug\pizzashop.csprojResolveAssemblyReference.cache
+U:\PIZZATREAT\pizzashop - Copy\pizzashop\obj\x86\Debug\pizzashop.Form1.resources
+U:\PIZZATREAT\pizzashop - Copy\pizzashop\obj\x86\Debug\pizzashop.Form2.resources
+U:\PIZZATREAT\pizzashop - Copy\pizzashop\obj\x86\Debug\pizzashop.login.resources
+U:\PIZZATREAT\pizzashop - Copy\pizzashop\obj\x86\Debug\pizzashop.Properties.Resources.resources
+U:\PIZZATREAT\pizzashop - Copy\pizzashop\obj\x86\Debug\pizzashop.csproj.GenerateResource.Cache
+C:\Users\Ishwari\Desktop\pizzashop_-_Copy\pizzashop\obj\x86\Debug\pizzashop.exe
+C:\Users\Ishwari\Desktop\pizzashop_-_Copy\pizzashop\obj\x86\Debug\pizzashop.pdb
+F:\pizzashop_-_Copy\pizzashop\obj\x86\Debug\pizzashop.exe
+F:\pizzashop_-_Copy\pizzashop\obj\x86\Debug\pizzashop.pdb
+F:\pizzashop_-_Copy\pizzashop\bin\Debug\pizzashop.exe
+F:\pizzashop_-_Copy\pizzashop\bin\Debug\pizzashop.pdb
+F:\pizzashop_-_Copy\pizzashop\obj\x86\Debug\pizzashop.csprojResolveAssemblyReference.cache
+F:\pizzashop_-_Copy\pizzashop\obj\x86\Debug\pizzashop.Form1.resources
+F:\pizzashop_-_Copy\pizzashop\obj\x86\Debug\pizzashop.Form2.resources
+F:\pizzashop_-_Copy\pizzashop\obj\x86\Debug\pizzashop.login.resources
+F:\pizzashop_-_Copy\pizzashop\obj\x86\Debug\pizzashop.Properties.Resources.resources
+F:\pizzashop_-_Copy\pizzashop\obj\x86\Debug\pizzashop.csproj.GenerateResource.Cache
+F:\pizzashop_-_Copy\pizzashop\obj\x86\Debug\pizzashop.Admin.resources
+F:\pizzashop_-_Copy\pizzashop\obj\x86\Debug\pizzashop.Report.resources
+U:\PIZZATREAT\pizzashop_admin_integrated_-_Copy\pizzashop\obj\x86\Debug\pizzashop.exe
+U:\PIZZATREAT\pizzashop_admin_integrated_-_Copy\pizzashop\obj\x86\Debug\pizzashop.pdb
+U:\PIZZATREAT\pizzashop_admin_integrated_-_Copy\pizzashop\bin\Debug\pizzashop.exe
+U:\PIZZATREAT\pizzashop_admin_integrated_-_Copy\pizzashop\bin\Debug\pizzashop.pdb
+U:\PIZZATREAT\pizzashop_admin_integrated_-_Copy\pizzashop\obj\x86\Debug\pizzashop.Admin.resources
+U:\PIZZATREAT\pizzashop_admin_integrated_-_Copy\pizzashop\obj\x86\Debug\pizzashop.Form1.resources
+U:\PIZZATREAT\pizzashop_admin_integrated_-_Copy\pizzashop\obj\x86\Debug\pizzashop.Form2.resources
+U:\PIZZATREAT\pizzashop_admin_integrated_-_Copy\pizzashop\obj\x86\Debug\pizzashop.login.resources
+U:\PIZZATREAT\pizzashop_admin_integrated_-_Copy\pizzashop\obj\x86\Debug\pizzashop.Properties.Resources.resources
+U:\PIZZATREAT\pizzashop_admin_integrated_-_Copy\pizzashop\obj\x86\Debug\pizzashop.Report.resources
+U:\PIZZATREAT\pizzashop_admin_integrated_-_Copy\pizzashop\obj\x86\Debug\pizzashop.csproj.GenerateResource.Cache
+U:\PIZZATREAT\pizzza\pizzashop\obj\x86\Debug\pizzashop.exe
+U:\PIZZATREAT\pizzza\pizzashop\obj\x86\Debug\pizzashop.pdb
+U:\PIZZATREAT\pizzza\pizzashop\bin\Debug\pizzashop.exe
+U:\PIZZATREAT\pizzza\pizzashop\bin\Debug\pizzashop.pdb
+U:\PIZZATREAT\pizzza\pizzashop\obj\x86\Debug\pizzashop.csprojResolveAssemblyReference.cache
+U:\PIZZATREAT\pizzza\pizzashop\obj\x86\Debug\pizzashop.AddProduct.resources
+U:\PIZZATREAT\pizzza\pizzashop\obj\x86\Debug\pizzashop.Admin.resources
+U:\PIZZATREAT\pizzza\pizzashop\obj\x86\Debug\pizzashop.Form1.resources
+U:\PIZZATREAT\pizzza\pizzashop\obj\x86\Debug\pizzashop.Form2.resources
+U:\PIZZATREAT\pizzza\pizzashop\obj\x86\Debug\pizzashop.login.resources
+U:\PIZZATREAT\pizzza\pizzashop\obj\x86\Debug\pizzashop.Properties.Resources.resources
+U:\PIZZATREAT\pizzza\pizzashop\obj\x86\Debug\pizzashop.Report.resources
+U:\PIZZATREAT\pizzza\pizzashop\obj\x86\Debug\pizzashop.Stock.resources
+U:\PIZZATREAT\pizzza\pizzashop\obj\x86\Debug\pizzashop.csproj.GenerateResource.Cache
+E:\clientproject\pizzza\pizzashop\obj\x86\Debug\pizzashop.exe
+E:\clientproject\pizzza\pizzashop\obj\x86\Debug\pizzashop.pdb
+E:\clientproject\pizzza\pizzashop\bin\Debug\pizzashop.exe
+E:\clientproject\pizzza\pizzashop\bin\Debug\pizzashop.pdb
+E:\clientproject\pizzza\pizzashop\obj\x86\Debug\pizzashop.csprojResolveAssemblyReference.cache
+E:\clientproject\pizzza\pizzashop\obj\x86\Debug\pizzashop.AddProduct.resources
+E:\clientproject\pizzza\pizzashop\obj\x86\Debug\pizzashop.Admin.resources
+E:\clientproject\pizzza\pizzashop\obj\x86\Debug\pizzashop.Form1.resources
+E:\clientproject\pizzza\pizzashop\obj\x86\Debug\pizzashop.Form2.resources
+E:\clientproject\pizzza\pizzashop\obj\x86\Debug\pizzashop.login.resources
+E:\clientproject\pizzza\pizzashop\obj\x86\Debug\pizzashop.Properties.Resources.resources
+E:\clientproject\pizzza\pizzashop\obj\x86\Debug\pizzashop.Report.resources
+E:\clientproject\pizzza\pizzashop\obj\x86\Debug\pizzashop.Stock.resources
+E:\clientproject\pizzza\pizzashop\obj\x86\Debug\pizzashop.csproj.GenerateResource.Cache
+E:\pizzza\pizzashop\obj\x86\Debug\pizzashop.exe
+E:\pizzza\pizzashop\obj\x86\Debug\pizzashop.pdb
+E:\pizzza\pizzashop\bin\Debug\pizzashop.exe
+E:\pizzza\pizzashop\bin\Debug\pizzashop.pdb
+E:\pizzza\pizzashop\obj\x86\Debug\pizzashop.csprojResolveAssemblyReference.cache
+E:\pizzza\pizzashop\obj\x86\Debug\pizzashop.Admin.resources
+E:\pizzza\pizzashop\obj\x86\Debug\pizzashop.Form1.resources
+E:\pizzza\pizzashop\obj\x86\Debug\pizzashop.Form2.resources
+E:\pizzza\pizzashop\obj\x86\Debug\pizzashop.login.resources
+E:\pizzza\pizzashop\obj\x86\Debug\pizzashop.Properties.Resources.resources
+E:\pizzza\pizzashop\obj\x86\Debug\pizzashop.Report.resources
+E:\pizzza\pizzashop\obj\x86\Debug\pizzashop.Stock.resources
+E:\pizzza\pizzashop\obj\x86\Debug\pizzashop.csproj.GenerateResource.Cache
+E:\pizzza\pizzashop\obj\x86\Debug\pizzashop.ChangePassword.resources
+E:\pizzza\pizzashop\obj\x86\Debug\pizzashop.Products.resources
+C:\Users\Ishwari\Desktop\new 3 4-11-2014\pizzza\pizzashop\bin\Debug\pizzashop.exe.config
+C:\Users\Ishwari\Desktop\new 3 4-11-2014\pizzza\pizzashop\obj\x86\Debug\pizzashop.exe
+C:\Users\Ishwari\Desktop\new 3 4-11-2014\pizzza\pizzashop\obj\x86\Debug\pizzashop.pdb
+C:\Users\Ishwari\Desktop\new 3 4-11-2014\pizzza\pizzashop\obj\x86\Debug\pizzashop.csprojResolveAssemblyReference.cache
+C:\Users\Ishwari\Desktop\new 3 4-11-2014\pizzza\pizzashop\obj\x86\Debug\pizzashop.ChangePassword.resources
+C:\Users\Ishwari\Desktop\new 3 4-11-2014\pizzza\pizzashop\obj\x86\Debug\pizzashop.Form1.resources
+C:\Users\Ishwari\Desktop\new 3 4-11-2014\pizzza\pizzashop\obj\x86\Debug\pizzashop.Form2.resources
+C:\Users\Ishwari\Desktop\new 3 4-11-2014\pizzza\pizzashop\obj\x86\Debug\pizzashop.Products.resources
+C:\Users\Ishwari\Desktop\new 3 4-11-2014\pizzza\pizzashop\obj\x86\Debug\pizzashop.Properties.Resources.resources
+C:\Users\Ishwari\Desktop\new 3 4-11-2014\pizzza\pizzashop\obj\x86\Debug\pizzashop.Stock.resources
+C:\Users\Ishwari\Desktop\new 3 4-11-2014\pizzza\pizzashop\obj\x86\Debug\pizzashop.csproj.GenerateResource.Cache
+C:\Users\Ishwari\Desktop\new 3 4-11-2014\pizzza\pizzashop\bin\Debug\pizzashop.exe
+C:\Users\Ishwari\Desktop\new 3 4-11-2014\pizzza\pizzashop\bin\Debug\pizzashop.pdb
+C:\Users\priyank\Downloads\pizzza\pizzashop\bin\Debug\pizzashop.exe.config
+C:\Users\priyank\Downloads\pizzza\pizzashop\bin\Debug\pizzashop.exe
+C:\Users\priyank\Downloads\pizzza\pizzashop\bin\Debug\pizzashop.pdb
+C:\Users\priyank\Downloads\pizzza\pizzashop\obj\x86\Debug\pizzashop.Admin.resources
+C:\Users\priyank\Downloads\pizzza\pizzashop\obj\x86\Debug\pizzashop.ChangePassword.resources
+C:\Users\priyank\Downloads\pizzza\pizzashop\obj\x86\Debug\pizzashop.Form1.resources
+C:\Users\priyank\Downloads\pizzza\pizzashop\obj\x86\Debug\pizzashop.Form2.resources
+C:\Users\priyank\Downloads\pizzza\pizzashop\obj\x86\Debug\pizzashop.login.resources
+C:\Users\priyank\Downloads\pizzza\pizzashop\obj\x86\Debug\pizzashop.Products.resources
+C:\Users\priyank\Downloads\pizzza\pizzashop\obj\x86\Debug\pizzashop.Properties.Resources.resources
+C:\Users\priyank\Downloads\pizzza\pizzashop\obj\x86\Debug\pizzashop.Report.resources
+C:\Users\priyank\Downloads\pizzza\pizzashop\obj\x86\Debug\pizzashop.Stock.resources
+C:\Users\priyank\Downloads\pizzza\pizzashop\obj\x86\Debug\pizzashop.csproj.GenerateResource.Cache
+C:\Users\priyank\Downloads\pizzza\pizzashop\obj\x86\Debug\pizzashop.exe
+C:\Users\priyank\Downloads\pizzza\pizzashop\obj\x86\Debug\pizzashop.pdb
+C:\Users\priyank\Downloads\pizzza\pizzashop\obj\x86\Debug\pizzashop.csprojResolveAssemblyReference.cache
+C:\Users\shubham\Desktop\piza live\pizzza\pizzashop\bin\Debug\pizzashop.exe.config
+C:\Users\shubham\Desktop\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.exe
+C:\Users\shubham\Desktop\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.pdb
+C:\Users\Admin\Desktop\piza live\pizzza\pizzashop\bin\Debug\pizzashop.exe.config
+C:\Users\Admin\Desktop\piza live\pizzza\pizzashop\bin\Debug\pizzashop.exe
+C:\Users\Admin\Desktop\piza live\pizzza\pizzashop\bin\Debug\pizzashop.pdb
+C:\Users\Admin\Desktop\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.ChangePassword.resources
+C:\Users\Admin\Desktop\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.Form1.resources
+C:\Users\Admin\Desktop\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.Form2.resources
+C:\Users\Admin\Desktop\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.Products.resources
+C:\Users\Admin\Desktop\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.Properties.Resources.resources
+C:\Users\Admin\Desktop\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.exe
+C:\Users\Admin\Desktop\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.pdb
+C:\Users\Admin\Desktop\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.csprojResolveAssemblyReference.cache
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\bin\Debug\pizzashop.exe.config
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.exe
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.pdb
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.csprojResolveAssemblyReference.cache
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.Admin.resources
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.ChangePassword.resources
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.Form1.resources
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.Form2.resources
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.login.resources
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.Products.resources
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.Properties.Resources.resources
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.Report.resources
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.Stock.resources
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\obj\x86\Debug\pizzashop.csproj.GenerateResource.Cache
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\bin\Debug\pizzashop.exe
+D:\MAIN STUDY\amplify\sem3\project\piza live\pizzza\pizzashop\bin\Debug\pizzashop.pdb

@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.8" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jPanel1" min="-2" pref="322" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="lbmoves" min="-2" pref="126" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="lblscore1" min="-2" pref="136" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+              <Component id="lblname" min="-2" pref="249" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <Component id="btnback" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="btnmenu" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="lblname" min="-2" pref="43" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btnmenu" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="btnback" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="73" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lbmoves" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblscore1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="99" green="99" red="99" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Component id="pb70" alignment="1" min="-2" pref="39" max="-2" attributes="0"/>
+                      <Component id="pb50" alignment="1" min="-2" pref="39" max="-2" attributes="0"/>
+                      <Component id="pb40" alignment="1" min="-2" pref="39" max="-2" attributes="0"/>
+                      <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                          <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                              <Component id="pb20" alignment="1" min="-2" pref="35" max="-2" attributes="0"/>
+                              <Component id="pb10" alignment="1" min="-2" pref="35" max="-2" attributes="0"/>
+                              <Component id="pb00" alignment="1" min="-2" pref="35" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="pb30" alignment="0" min="-2" pref="37" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="pb60" alignment="1" min="-2" pref="39" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="pb01" alignment="0" min="-2" pref="34" max="-2" attributes="0"/>
+                      <Component id="pb11" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb21" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb31" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb41" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb51" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb61" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb71" alignment="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="pb02" alignment="0" min="-2" pref="34" max="-2" attributes="0"/>
+                      <Component id="pb12" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb22" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb32" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb42" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb52" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb62" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb72" alignment="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="pb03" alignment="0" min="-2" pref="34" max="-2" attributes="0"/>
+                      <Component id="pb13" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb23" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb33" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb43" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb53" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb63" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb73" alignment="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="pb24" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb34" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb44" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb54" alignment="0" min="-2" pref="36" max="-2" attributes="0"/>
+                      <Component id="pb14" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb04" alignment="1" min="-2" pref="35" max="-2" attributes="0"/>
+                      <Component id="pb64" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb74" alignment="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="pb05" alignment="0" min="-2" pref="35" max="-2" attributes="0"/>
+                      <Component id="pb15" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb25" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb35" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb45" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb55" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb65" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb75" alignment="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="pb06" alignment="0" min="-2" pref="34" max="-2" attributes="0"/>
+                      <Component id="pb16" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb26" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb36" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb46" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb56" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb66" alignment="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="pb76" alignment="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="pb07" alignment="0" min="-2" pref="36" max="-2" attributes="0"/>
+                      <Component id="pb17" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                          <Component id="pb47" alignment="0" pref="0" max="32767" attributes="0"/>
+                          <Component id="pb37" alignment="0" pref="0" max="32767" attributes="0"/>
+                          <Component id="pb27" alignment="0" min="-2" pref="33" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="pb57" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                          <Component id="pb77" alignment="0" pref="0" max="32767" attributes="0"/>
+                          <Component id="pb67" alignment="0" min="-2" pref="33" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Component id="pb07" alignment="1" min="-2" pref="35" max="-2" attributes="0"/>
+                      <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                          <Component id="pb02" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="pb03" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="pb04" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="pb05" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="pb06" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                          <Component id="pb01" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="pb00" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                          <Component id="pb11" alignment="3" max="32767" attributes="0"/>
+                          <Component id="pb10" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="pb12" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb13" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb14" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb15" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb16" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb17" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="pb20" alignment="0" min="-2" pref="33" max="-2" attributes="0"/>
+                      <Component id="pb21" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb22" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb23" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb24" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb25" alignment="0" max="32767" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                          <Component id="pb26" alignment="3" max="32767" attributes="0"/>
+                          <Component id="pb27" alignment="3" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                          <Component id="pb31" alignment="3" max="32767" attributes="0"/>
+                          <Component id="pb30" alignment="3" max="32767" attributes="0"/>
+                      </Group>
+                      <Component id="pb32" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb33" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb34" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb35" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb36" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb37" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="pb40" alignment="0" min="-2" pref="34" max="-2" attributes="0"/>
+                      <Component id="pb41" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb42" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb43" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb44" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb45" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb46" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb47" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="pb50" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb51" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb52" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb53" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb54" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb55" alignment="0" max="32767" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                          <Component id="pb56" alignment="3" max="32767" attributes="0"/>
+                          <Component id="pb57" alignment="3" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="pb60" alignment="0" min="-2" pref="34" max="-2" attributes="0"/>
+                      <Component id="pb61" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb62" alignment="0" max="32767" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                          <Component id="pb63" alignment="3" max="32767" attributes="0"/>
+                          <Component id="pb64" alignment="3" max="32767" attributes="0"/>
+                          <Component id="pb65" alignment="3" max="32767" attributes="0"/>
+                          <Component id="pb66" alignment="3" max="32767" attributes="0"/>
+                          <Component id="pb67" alignment="3" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="pb70" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb71" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb72" alignment="0" max="32767" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                          <Component id="pb73" alignment="3" max="32767" attributes="0"/>
+                          <Component id="pb74" alignment="3" max="32767" attributes="0"/>
+                      </Group>
+                      <Component id="pb75" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb76" alignment="0" max="32767" attributes="0"/>
+                      <Component id="pb77" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="pb05">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb05MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb02">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb02MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb03">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb03MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb04">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb04MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb01">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb01MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb06">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb06MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb07">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb07MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb10">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb10MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb11">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb11MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb12">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb12MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb13">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb13MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb14">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb14MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb15">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb15MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb16">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb16MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb17">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb17MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb00">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb00MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb20">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb20MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb21">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb21MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb22">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb22MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb23">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb23MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb24">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb24MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb25">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb25MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb26">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb26MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb27">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb27MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb30">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb30MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb31">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb31MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb32">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb32MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb33">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb33MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb34">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb34MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb35">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb35MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb36">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb36MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb37">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb37MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb40">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb40MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb41">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb41MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb42">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb42MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb43">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb43MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb44">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb44MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb45">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb45MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb46">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb46MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb47">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb47MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb50">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb50MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb51">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb51MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb52">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb52MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb53">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb53MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb54">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLael1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb54MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb55">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb55MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb56">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb56MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb57">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb57MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb60">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb60MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb61">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb61MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb62">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb62MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb63">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb63MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb64">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb64MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb65">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb65MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb66">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb66MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb67">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb67MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb70">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb70MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb71">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb71MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb72">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb72MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb73">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb73MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb74">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb74MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb75">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb75MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb76">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb76MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="pb77">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="pb77MouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="lblscore1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Raavi" size="24" style="3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbmoves">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Raavi" size="24" style="3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblname">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/pics/name.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnmenu">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="66" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="jButton1"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnmenuActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnback">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="66" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="jButton1"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnbackActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
